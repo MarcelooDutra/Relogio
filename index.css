@@ -1,0 +1,9 @@
+.container{
+    background-color: aliceblue;
+    padding: 1em;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    margin-top: 4em;
+    border-radius: 1em;
+}
